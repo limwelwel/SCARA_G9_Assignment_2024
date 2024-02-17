@@ -14,7 +14,7 @@ Group Assignment in Robotics 2
 
 ### Group Members
 - Ada, Lemuel J.
--
+- Cometa, Steven Shaine M.
 -
 -
 

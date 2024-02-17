@@ -5,6 +5,7 @@ Group Assignment in Robotics 2
 ## 1. Spherical Manipulator - Modern Variant
 ## 2. SCARA - PRR Variant
 ## 3. Cartesian Manipulator on Ceiling
+https://github.com/limwelwel/SCARA_G9_Assignment_2024/issues/1
 # Mechanical Manipulators Figure
 ## 1. Spherical Manipulator - Modern Variant
 

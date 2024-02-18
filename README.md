@@ -12,7 +12,8 @@ Group Assignment in Robotics 2
 ![CamScanner 02-17-2024 18 20_1](https://github.com/limwelwel/SCARA_G9_Assignment_2024/assets/157552825/0dfb6281-7eb1-4e35-8eae-e4d845afc074)
 
 # Mechanical Manipulators Figure
-## 1. Spherical Manipulator - Modern Variant
+## 1. Spherical Manipulator - Modern Variant 
+![spherical](https://github.com/limwelwel/SCARA_G9_Assignment_2024/assets/157497997/225632d6-a599-45f8-b22e-834e6d97eefb)
 
 ## 2. SCARA - PRR Variant
 

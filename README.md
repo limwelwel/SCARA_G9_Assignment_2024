@@ -16,6 +16,7 @@ Group Assignment in Robotics 2
 ![spherical](https://github.com/limwelwel/SCARA_G9_Assignment_2024/assets/157497997/225632d6-a599-45f8-b22e-834e6d97eefb)
 
 ## 2. SCARA - PRR Variant
+![scara](https://github.com/limwelwel/SCARA_G9_Assignment_2024/assets/157497997/49a6b05f-0fae-4866-8e02-b898535325be)
 
 ## 3. Cartesian Manipulator on Ceiling
 

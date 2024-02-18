@@ -3,7 +3,6 @@ Group Assignment in Robotics 2
 
 # D-H Parametric Tables with their labeled Kinematic Diagrams
 ## 1. Spherical Manipulator - Modern Variant
-![CamScanner 02-17-2024 18 20_2](https://github.com/limwelwel/SCARA_G9_Assignment_2024/assets/157552825/e8c47dff-5478-4b1c-8f17-cd377a8a91f4)
 
 ## 2. SCARA - PRR Variant
 ![CamScanner 02-17-2024 18 20_3](https://github.com/limwelwel/SCARA_G9_Assignment_2024/assets/157552825/28f18327-0be2-415b-b0dc-bd96624506e2)

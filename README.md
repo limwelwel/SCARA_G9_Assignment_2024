@@ -25,7 +25,7 @@ Group Assignment in Robotics 2
 ### Group Members
 - Programmer - Ada, Lemuel J.
 - Project Leader - Cometa, Steven Shaine M.
-- Eje, Ken Christian D.
+- Project Quality - Eje, Ken Christian D.
 - Umali, Felicity D.
 
 

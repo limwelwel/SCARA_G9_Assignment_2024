@@ -26,6 +26,6 @@ Group Assignment in Robotics 2
 - Ada, Lemuel J.
 - Project Leader - Cometa, Steven Shaine M.
 - Eje, Ken Christian D.
-- Umali, Felicity
+- Umali, Felicity D.
 
 

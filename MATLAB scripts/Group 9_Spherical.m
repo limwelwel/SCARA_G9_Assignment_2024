@@ -10,7 +10,7 @@ a3 = 2;
 
 %% Joint Variables
 
-d3 = 3;
+d3 = 2;
 
 %% D-H Parameters [theta, d, r, alpha, offset]
 

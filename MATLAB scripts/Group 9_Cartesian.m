@@ -4,10 +4,10 @@ syms a1 a2 a3 a4 d1 d2 d3
 
 %% Link lengths
 
-a1 = 2;
+a1 = 3;
 a2 = 3;
 a3 = 3;
-a4 = 2;
+a4 = 3;
 
 %% Joint Variables
 

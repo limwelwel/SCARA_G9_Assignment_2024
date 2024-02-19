@@ -19,6 +19,8 @@ Group Assignment in Robotics 2
 ![scara](https://github.com/limwelwel/SCARA_G9_Assignment_2024/assets/157497997/49a6b05f-0fae-4866-8e02-b898535325be)
 
 ## 3. Cartesian Manipulator on Ceiling
+![received_2139366049735569](https://github.com/limwelwel/SCARA_G9_Assignment_2024/assets/157552825/104a1dbf-b58f-45e3-9692-5ec3f18f5b88)
+
 
 ### Group Members
 - Ada, Lemuel J.
